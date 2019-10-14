@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sketch B.C 정기대회 게시판
 
 You can use the [editor on GitHub](https://github.com/JMBOO/sketchbc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
