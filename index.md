@@ -8,9 +8,9 @@
 가장최근 경기에 대한 경기결과이며 전체 데이터를 원하는경우 운영진에게 문의(클럽장 : 이찬혁, 총무 : 문수희, 경기이사 : 부종민)
 
 
-<center>![](https://cdn4.iconfinder.com/data/icons/gamification-1/256/--02-512.png)</center>
-<center>##우승</center>
-<center>###이찬혁</center>
+<center> ![](https://cdn4.iconfinder.com/data/icons/gamification-1/256/--02-512.png) </center>
+<center> ##우승 </center>
+<center> ###이찬혁 </center>
 
 <script>
   function resizeIframe(obj) {
