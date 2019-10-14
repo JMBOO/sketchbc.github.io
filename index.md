@@ -21,4 +21,5 @@
 
 ### 볼링용품 구매
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[볼러스-해외직구](https://www.bowlers.co.kr/)
+[제주볼러스몰](https://m.cafe.daum.net/jejubowlingmall)
