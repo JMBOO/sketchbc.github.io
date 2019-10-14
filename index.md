@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/JMBOO/sketchbc.github.io/master/KakaoTalk_Photo_2019-10-14-18-56-51.jpeg)
 
-## Sketch B.C 정기대회 게시판
+## Sketch B.C 월례대회 게시판
 
 본 사이트는 Sketch B.C 클럽회원들의 경기결과 열람만을 위한 사이트이며 게시글 업로드및 문의기능은 사용 불가능
 기타 건의사항은 v6306@naver.com 또는 사이트 관리자에게 문의
@@ -18,9 +18,9 @@
 
 경기결과 문의 : 부종민
 
-### 클럽 공지사항
+### 다음 월례대회 일정
 
--
+- 2019. 10. 26
 
 ### 볼링용품 구매
 
