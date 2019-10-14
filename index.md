@@ -7,13 +7,14 @@
 
 가장최근 경기에 대한 경기결과이며 전체 데이터를 원하는경우 운영진에게 문의(클럽장 : 이찬혁, 총무 : 문수희, 경기이사 : 부종민)
 
+img.aligncenter{display:block;margin:0 auto}
+![title](https://cdn4.iconfinder.com/data/icons/gamification-1/256/--02-512.png){: width="100" height="100" .aligncenter}
 
-<center> ![title](https://cdn4.iconfinder.com/data/icons/gamification-1/256/--02-512.png){: width="100" height="100"}
+-> ### 우승 <-
+-> #### 이찬혁 <-
 
-### 우승
-#### 이찬혁
 
-</center>
+
 <script>
   function resizeIframe(obj) {
     obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
