@@ -1,3 +1,5 @@
+![](https://cdn.dodowallpaper.com/full/416/bowling-wallpapers-27.jpg){: width=100% height=60%}
+
 ## Sketch B.C 정기대회 게시판
 
 본 사이트는 Sketch B.C 클럽회원들의 경기결과 열람만을 위한 사이트이며 게시글 업로드및 문의기능은 사용 불가능
