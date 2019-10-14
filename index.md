@@ -8,7 +8,7 @@
 
 가장최근 경기에 대한 경기결과이며 전체 데이터를 원하는경우 경기이사(부종민) 또는 운영진에게 문의(클럽장 : 이찬혁, 총무 : 문수희)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=189085316&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:150%;width:150%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="150%" width="150%"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=189085316&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%"></iframe>
 
 경기결과 문의 : 부종민
 
