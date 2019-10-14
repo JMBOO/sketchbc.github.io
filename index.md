@@ -20,13 +20,14 @@
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1138584962&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:700px; width:100%;" scrolling="no"></iframe>
 
 #### 핸디변동사유
+(*점수핸디 규정 변동예정*)
 - 이찬혁
   - 기존 [2019. 10. 12]기준 점수핸디 12 -> 22로 변동 (사유 : 에버 172 - 클럽에버 150 = 22)
   - 기존 [2019. 10. 12]기준 상품핸디 30 변동없음 (사유 : 최대치, 월례대회 1위)
   - 총핸디 변동없음
 
 - 송진혁
-  - 기존 [2019. 10. 12]기준 점수핸디 변동없음
+  - 기존 [2019. 10. 12]기준 점수핸디 0 -> 9로 벼동 (사유 : 에버 159 - 클럽에버 150 = 9)
   - 기존 [2019. 10. 12]기준 상품핸디 0 -> 10으로 변동 (사유 : 월례대회 2위)
   - 총핸디 0 -> 10으로 변동
 
