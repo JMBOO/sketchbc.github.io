@@ -1,4 +1,4 @@
-![](https://cdn.dodowallpaper.com/full/416/bowling-wallpapers-27.jpg){: width=100% height=60%}
+![](https://raw.githubusercontent.com/JMBOO/sketchbc.github.io/master/KakaoTalk_Photo_2019-10-14-18-56-51.jpeg)
 
 ## Sketch B.C 정기대회 게시판
 
