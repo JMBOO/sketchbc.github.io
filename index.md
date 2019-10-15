@@ -26,6 +26,7 @@
 ### 클럽회원 게임수
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=480235108&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:700px; width:100%;" scrolling="no"></iframe>
+
 #### 핸디변동사유
 (*점수핸디 규정 변동예정*)
 - 이찬혁
