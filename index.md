@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/JMBOO/sketchbc.github.io/master/sketch.jpg)
+![](https://raw.githubusercontent.com/JMBOO/sketchbc.github.io/master/KakaoTalk_20191030_232053878.png)
 
 ## Sketch B.C 월례대회 게시판
 
@@ -103,3 +103,6 @@
 - [볼러스-해외직구](https://www.bowlers.co.kr/)
 - [제주볼러스몰](https://m.cafe.daum.net/jejubowlingmall)
 - [아이크비-클럽티 제작업체](http://ike-b.com/)
+
+
+![](https://raw.githubusercontent.com/JMBOO/sketchbc.github.io/master/sketch.jpg)
