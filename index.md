@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/JMBOO/sketchbc.github.io/master/KakaoTalk_Photo_2019-10-14-18-56-51.jpeg)
+![](https://raw.githubusercontent.com/JMBOO/sketchbc.github.io/master/sketch.jpg)
 
 ## Sketch B.C 월례대회 게시판
 
