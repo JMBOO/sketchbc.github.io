@@ -15,13 +15,13 @@
 
 가장최근 경기에 대한 경기결과이며 전체 데이터를 원하는경우 운영진에게 문의(클럽장 : 이찬혁, 총무 : 문수희, 경기이사 : 부종민)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=576705304&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:1750px; width:100%;" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=576705304&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:1770px; width:100%;" scrolling="no"></iframe>
 
 경기결과 문의 : 부종민
 
 ### 클럽회원 핸디캡 점수표 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1138584962&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:720px; width:100%;" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1138584962&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:740px; width:100%;" scrolling="no"></iframe>
 
 #### 핸디변동사유
 
