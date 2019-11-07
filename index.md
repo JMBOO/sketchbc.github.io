@@ -103,7 +103,7 @@
 
 ## 지난 월례대회 결과
 
-- [2019. 10. 26](https://github.com/JMBOO/sketchbc.github.io/blob/master/img/2019_10_26.xps?raw=true)
+- [2019. 10. 26 - 관리자에게 문의]
 
 ## 다음 월례대회 일정
 
