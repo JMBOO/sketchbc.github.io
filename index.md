@@ -21,77 +21,33 @@
 
 ### 클럽회원 핸디캡 점수표 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1138584962&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:700px; width:100%;" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1138584962&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:720px; width:100%;" scrolling="no"></iframe>
 
 #### 핸디변동사유
-- 이찬혁
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
 
-- 부종민
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-
-- 문수희
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-
-- 문장성
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-  
-- 송용호
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-
-- 이승종
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-
-- 정대관
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-
-- 고종희
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-
-- 박학준
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-
-- 조상현
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-  
-- 송진혁
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-  
-- 천시영
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
-
-- 김미정
-  - 점수핸디 
-  - 상품핸디 
-  - 총핸디 
+| 회원명 | 점수핸디 | 상품핸디 | 총핸디 |
+|---|:---:|---:|
+| `이찬혁` |  |  |
+| `부종민` |  |  |
+| `문수희` |  |  |
+| `문장성` |  |  |
+| `송용호` |  |  |
+| `이승종` |  |  |
+| `정대관` |  |  |
+| `고종희` |  |  |
+| `박학준` |  |  |
+| `조상현` |  |  |
+| `송진혁` |  |  |
+| `천시영` |  |  |
+| `김미정` |  |  |
+| `김영현` |  |  |
   
 ### 클럽회원 게임수
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=480235108&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:700px; width:100%;" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=480235108&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:720px; width:100%;" scrolling="no"></iframe>
+
+### 지난 월례대회 결과
+- [2019. 10. 26](https://drive.google.com/open?id=1XPs27fzsXAiFUabX3pF2-JXT8mP_P25O)
 
 ### 다음 월례대회 일정
 
