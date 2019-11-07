@@ -47,7 +47,7 @@
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=480235108&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:720px; width:100%;" scrolling="no"></iframe>
 
 ### 지난 월례대회 결과
-- [2019. 10. 26](https://drive.google.com/file/d/1XPs27fzsXAiFUabX3pF2-JXT8mP_P25O/view)
+- [2019. 10. 26](https://github.com/JMBOO/sketchbc.github.io/blob/master/img/2019_10_26.xps)
 
 ### 다음 월례대회 일정
 
