@@ -8,7 +8,7 @@
 (*본 사이트는 모바일에 최적화되어있습니다.*)
 
 ## 공지사항
-- 2019. 12. 07 연말 경품전 월례 대회 예정
+- [2019. 12. 07] 연말 경품전 월례 대회 예정
 - Team Sketch 패치 및 네임택 수령요망.
 
 ## 최근 경기결과
@@ -16,6 +16,7 @@
 가장최근 경기에 대한 경기결과이며 전체 데이터를 원하는경우 운영진에게 문의(클럽장 : 이찬혁, 총무 : 문수희, 경기이사 : 부종민)
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=2062987945&amp;single=true&amp;widget=true&amp;headers=false" height:1770px; width:100%;" scrolling="no"></iframe>
+
 
 경기결과 문의 : 부종민
 
