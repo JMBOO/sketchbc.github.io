@@ -15,7 +15,8 @@
 
 가장최근 경기에 대한 경기결과이며 전체 데이터를 원하는경우 운영진에게 문의(클럽장 : 이찬혁, 총무 : 문수희, 경기이사 : 부종민)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=2062987945&amp;single=true&amp;widget=true&amp;headers=false" frameborder="0" style="overflow:hidden; height:1770px; width:100%;" scrolling="no"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=924048765&single=true&amp;widget=true&amp;headers=false"
+frameborder="0" style="overflow:hidden; height:1770px; width:100%;" scrolling="no"></iframe>
 
 
 경기결과 문의 : 부종민
@@ -106,11 +107,12 @@
 
 - [2019. 10. 26](https://github.com/JMBOO/sketchbc.github.io/blob/master/img/2019_10_26.pdf)
 - [2019. 11. 9](https://github.com/JMBOO/sketchbc.github.io/blob/master/img/2019_11_9.html)
+- [2019. 11. 23] : 일정 취소
 
 ## 다음 월례대회 일정
 
-- [2019. 11. 23]
 - [2019. 12. 07]
+- [2019. 12. 14]
 
 ## 볼링용품 구매
 
