@@ -111,8 +111,8 @@ frameborder="0" style="overflow:hidden; height:1770px; width:100%;" scrolling="n
 
 ## 다음 월례대회 일정
 
-- [2019. 12. 07]
 - [2019. 12. 14]
+- [2019. 12. 28]
 
 ## 볼링용품 구매
 
