@@ -109,7 +109,7 @@ frameborder="0" style="overflow:hidden; height:1770px; width:100%;" scrolling="n
 
 - [2019. 10. 26](https://github.com/JMBOO/sketchbc.github.io/blob/master/img/2019_10_26.pdf)
 - [2019. 11. 9](https://github.com/JMBOO/sketchbc.github.io/blob/master/img/2019_11_9.html)
-- [2019. 11. 23] : 일정 취소
+- [2019. 11. 23 일정 취소]
 
 ## 다음 월례대회 일정
 
