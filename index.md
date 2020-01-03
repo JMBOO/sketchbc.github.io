@@ -17,7 +17,7 @@
 
 ### 단품 누적금액 : 10,000
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1341827019&single=true&amp;widget=true&amp;headers=false"
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1341827019&amp;single=true&amp;widget=true&amp;headers=false"
 frameborder="0" style="overflow:hidden; height:1770px; width:100%;" scrolling="no"></iframe>
 
 
