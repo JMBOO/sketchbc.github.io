@@ -170,7 +170,7 @@ frameborder="0" style="overflow:hidden; height:1770px; width:100%;" scrolling="n
 - [2019. 11. 23 일정 취소]
 - [2019. 12. 14]
 - [2019. 12. 28 일정 취소]
-- 
+- [2020. 1. 3](https://github.com/JMBOO/sketchbc.github.io/blob/master/img/2020_1_3.html)
 ## 다음 월례대회 일정
 
 - [2020. 1. 17]
