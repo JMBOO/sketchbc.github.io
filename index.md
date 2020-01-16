@@ -16,9 +16,8 @@
 
 ### 단품 누적금액 : 20,000
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1341827019&amp;single=true&amp;widget=true&amp;headers=false"
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=744897092&amp;single=true&amp;widget=true&amp;headers=false"
 frameborder="0" style="overflow:hidden; height:1770px; width:100%;" scrolling="no"></iframe>
-
 
 경기결과 문의 : 부종민
 
@@ -174,7 +173,8 @@ frameborder="0" style="overflow:hidden; height:1770px; width:100%;" scrolling="n
 
 ## 다음 월례대회 일정
 
-- [2020. 1. 17]
+- [2020. 2. 7]
+- [2020. 2. 21]
 
 ## 볼링용품 구매
 
