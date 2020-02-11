@@ -10,11 +10,7 @@
 ## 공지사항
 
 
-## 최근 경기결과
-
-가장최근 경기에 대한 경기결과이며 전체 데이터를 원하는경우 운영진에게 문의(클럽장 : 이찬혁, 총무 : 문수희, 경기이사 : 부종민)
-
-### 단품 누적금액 : 0
+## 최근 경기결과 (단품 누적금액 : 0)
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1994473267&amp;single=true&amp;widget=true&amp;headers=false"
 frameborder="0" style="overflow:hidden; height:1800px; width:100%;" scrolling="no"></iframe>
@@ -32,16 +28,18 @@ frameborder="0" style="overflow:hidden; height:1800px; width:100%;" scrolling="n
 
 ## 지난 월례대회 결과
 
-- [2019. 10. 26](https://jmboo.github.io/sketchbc.github.io/img/2019_10_26.pdf)
-- [2019. 11. 9](https://github.com/JMBOO/sketchbc.github.io/blob/master/img/2019_11_9.html)
+- [2019. 10. 12](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2019-10-12.pdf)
+- [2019. 10. 26](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2019-10-26.pdf)
+- [2019. 11. 9](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2019-11-9.pdf)
 - [2019. 11. 23 일정 취소]
-- [2019. 12. 14]
+- [2019. 12. 14](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2019-12-14.pdf)
 - [2019. 12. 28 일정 취소]
-- [2020. 1. 3](https://github.com/JMBOO/sketchbc.github.io/blob/master/img/2020_1_3.html)
-- [2020. 1. 17]
+- [2020. 1. 3](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-1-3.pdf)
+- [2020. 1. 17](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-1-17.pdf)
+- [2020. 2. 7](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-2-7.pdf)
+
 ## 다음 월례대회 일정
 
-- [2020. 2. 7]
 - [2020. 2. 21]
 
 ## 볼링용품 구매
