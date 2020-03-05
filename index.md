@@ -37,11 +37,11 @@ frameborder="0" style="overflow:hidden; height:1800px; width:100%;" scrolling="n
 - [2020. 1. 3](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-1-3.pdf)
 - [2020. 1. 17](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-1-17.pdf)
 - [2020. 2. 7](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-2-7.pdf)
-
+- [2020. 2. 21](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-2-21.pdf)
 ## 다음 월례대회 일정
 
-- [2020. 2. 21]
-
+- [2020. 4. 3]
+- [2020. 4. 17]
 ## 볼링용품 구매
 
 - [볼러스-해외직구](https://www.bowlers.co.kr/)
