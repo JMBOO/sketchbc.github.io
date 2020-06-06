@@ -28,7 +28,6 @@ frameborder="0" style="overflow:hidden; height:1800px; width:100%;" scrolling="n
 
 ## 지난 월례대회 결과
 
-- [2019. 11. 9](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2019-11-9.pdf)
 - [2019. 11. 23 일정 취소]
 - [2019. 12. 14](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2019-12-14.pdf)
 - [2019. 12. 28 일정 취소]
@@ -38,12 +37,13 @@ frameborder="0" style="overflow:hidden; height:1800px; width:100%;" scrolling="n
 - [2020. 2. 21](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-2-21.pdf)
 - [2020. 5. 1](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-5-1.pdf)
 - [2020. 5. 15](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-5-15.pdf)
+- [2020. 6. 5](https://jmboo.github.io/sketchbc.github.io/img/스케치 정기대회 점수표 - 2020-6-5.pdf)
 ## 다음 월례대회 일정
 
-- [2020. 4. 3]
-- [2020. 4. 17]
+- [2020. 6. 19]
 ## 볼링용품 구매
 
 - [볼러스-해외직구](https://www.bowlers.co.kr/)
 - [제주볼러스몰](https://m.cafe.daum.net/jejubowlingmall)
 - [아이크비-클럽티 제작업체](http://ike-b.com/)
+- [핀헌터](http://pinhunter.co.kr)
