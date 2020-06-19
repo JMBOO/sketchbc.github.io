@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/JMBOO/sketchbc.github.io/master/sketch2.jpg)
+![](https://raw.githubusercontent.com/JMBOO/sketchbc.github.io/master/blacklogo.png)
 
 # Team Flex 정기대회 게시판
 
