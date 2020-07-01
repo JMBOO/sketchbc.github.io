@@ -10,7 +10,7 @@
 ## 공지사항
 
 
-## 최근 경기결과 (단품 누적금액 : 10,000)
+## 최근 경기결과 (단품 : 5,000원 / 누적금액 : 0원)
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1994473267&amp;single=true&amp;widget=true&amp;headers=false"
 frameborder="0" style="overflow:hidden; height:1800px; width:100%;" scrolling="no"></iframe>
@@ -32,6 +32,7 @@ frameborder="0" style="overflow:hidden; height:1800px; width:100%;" scrolling="n
 ## 다음 월례대회 일정
 
 - [2020. 7. 1]
+
 ## 볼링용품 구매
 
 - [볼러스-해외직구](https://www.bowlers.co.kr/)
