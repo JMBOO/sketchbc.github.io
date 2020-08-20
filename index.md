@@ -15,10 +15,9 @@
 ## 공지사항
 
 
-## 최근 경기결과 (단품 : 5,000원 / 누적금액 : 0원)
+## 최근 경기결과 (단품 : 10,000원 / 누적금액 : 0원)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSr50IJzLII6GAOj4TQKZgxZ_WGBIKGnx7ppzcr4tnIaEyWrHHw-ra2BMCTFfGKC_NgQ3KhFb_rE_0T/pubhtml?gid=1994473267&amp;single=true&amp;widget=true&amp;headers=false"
-frameborder="0" style="overflow:hidden; height:1800px; width:100%;" scrolling="no"></iframe>
+<iframe src="https://cm.chilten.com/clubs/2093/games/14357"></iframe>
 
 경기결과 문의 : (정) 부종민 / (부) 정대관
 
